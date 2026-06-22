@@ -1,0 +1,16 @@
+{
+  "identifier": "sevakaro",
+  "title": "SevaKaro — Charity Donations",
+  "blueprint": "feature",
+  "properties": {
+    "lifecycle": "concept",
+    "description": "Allows CashKaro users to donate their wallet balance to verified NGOs and charities. Seva means selfless service.",
+    "figmaLink": "https://www.figma.com/replace-with-sevakaro-link",
+    "confluenceLink": "https://cashkaro.atlassian.net/replace-with-confluence-link",
+    "tags": ["growth", "charity", "wallet", "social-impact"],
+    "owner": "product-team"
+  },
+  "relations": {
+    "domain": "growth"
+  }
+}

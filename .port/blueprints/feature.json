@@ -1,0 +1,57 @@
+{
+  "identifier": "feature",
+  "title": "Feature",
+  "icon": "Star",
+  "description": "A product feature with full spec, design, research, and testing docs",
+  "schema": {
+    "properties": {
+      "lifecycle": {
+        "type": "string",
+        "title": "Lifecycle",
+        "enum": ["concept", "in-development", "production", "deprecated"],
+        "enumColors": {
+          "concept": "yellow",
+          "in-development": "blue",
+          "production": "green",
+          "deprecated": "red"
+        }
+      },
+      "description": {
+        "type": "string",
+        "title": "Description"
+      },
+      "figmaLink": {
+        "type": "string",
+        "title": "Figma",
+        "format": "url",
+        "icon": "Link"
+      },
+      "confluenceLink": {
+        "type": "string",
+        "title": "Confluence",
+        "format": "url",
+        "icon": "Link"
+      },
+      "tags": {
+        "type": "array",
+        "title": "Tags",
+        "items": {
+          "type": "string"
+        }
+      },
+      "owner": {
+        "type": "string",
+        "title": "Owner"
+      }
+    },
+    "required": ["lifecycle", "owner"]
+  },
+  "relations": {
+    "domain": {
+      "title": "Domain",
+      "target": "domain",
+      "many": false,
+      "required": false
+    }
+  }
+}

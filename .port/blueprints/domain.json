@@ -1,0 +1,21 @@
+{
+  "identifier": "domain",
+  "title": "Domain",
+  "icon": "Cluster",
+  "description": "A product area grouping related features",
+  "schema": {
+    "properties": {
+      "description": {
+        "type": "string",
+        "title": "Description"
+      },
+      "type": {
+        "type": "string",
+        "title": "Type",
+        "default": "product-area"
+      }
+    },
+    "required": []
+  },
+  "relations": {}
+}

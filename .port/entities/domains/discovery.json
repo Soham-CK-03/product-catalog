@@ -1,0 +1,10 @@
+{
+  "identifier": "discovery",
+  "title": "Discovery",
+  "blueprint": "domain",
+  "properties": {
+    "description": "Search, store pages, categories, deals, and coupons",
+    "type": "product-area"
+  },
+  "relations": {}
+}

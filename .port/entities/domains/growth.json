@@ -1,0 +1,10 @@
+{
+  "identifier": "growth",
+  "title": "Growth",
+  "blueprint": "domain",
+  "properties": {
+    "description": "User acquisition, onboarding, referrals, and social impact (SevaKaro)",
+    "type": "product-area"
+  },
+  "relations": {}
+}

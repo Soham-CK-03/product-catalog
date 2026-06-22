@@ -1,0 +1,10 @@
+{
+  "identifier": "cashback",
+  "title": "Cashback",
+  "blueprint": "domain",
+  "properties": {
+    "description": "Cashback tracking, wallet management, and payouts",
+    "type": "product-area"
+  },
+  "relations": {}
+}

@@ -1,0 +1,10 @@
+{
+  "identifier": "platform",
+  "title": "Platform",
+  "blueprint": "domain",
+  "properties": {
+    "description": "Authentication, notifications, settings, and core infrastructure features",
+    "type": "product-area"
+  },
+  "relations": {}
+}
