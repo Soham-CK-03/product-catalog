@@ -1,0 +1,39 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: product-team
+  description: Product managers and designers at CashKaro
+spec:
+  type: team
+  profile:
+    displayName: Product Team
+    email: product@cashkaro.com
+  children: []
+  members:
+    - Soham-CK-03
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: engineering-team
+  description: Engineering at CashKaro
+spec:
+  type: team
+  profile:
+    displayName: Engineering Team
+    email: tech@cashkaro.com
+  children: []
+  members: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: growth-team
+  description: Growth, marketing, and partnerships
+spec:
+  type: team
+  profile:
+    displayName: Growth Team
+    email: growth@cashkaro.com
+  children: []
+  members: []

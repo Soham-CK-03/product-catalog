@@ -1,0 +1,19 @@
+# CODEOWNERS — CashKaro Product Catalog
+#
+# These rules mean: no PR can be merged without approval from the listed owner.
+# GitHub enforces this automatically when branch protection is enabled.
+
+# Default — any change requires product team review
+*                                   @Soham-CK-03
+
+# Feature specs — PM who owns the feature must approve
+features/sevakaro/                  @Soham-CK-03
+
+# Org structure — only admin can change team/user definitions
+org/                                @Soham-CK-03
+
+# Domains — product lead approves domain changes
+domains/                            @Soham-CK-03
+
+# Playbook — process changes need sign-off
+docs/                               @Soham-CK-03

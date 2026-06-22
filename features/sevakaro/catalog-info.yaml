@@ -1,0 +1,27 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: sevakaro
+  title: SevaKaro — Charity Donations
+  description: >
+    Allows CashKaro users to donate their wallet balance to verified NGOs and charities.
+    Seva (सेवा) means selfless service. SevaKaro = "do seva".
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - growth
+    - charity
+    - wallet
+    - social-impact
+  links:
+    - url: https://www.figma.com/replace-with-sevakaro-figma-link
+      title: Figma Designs
+      icon: dashboard
+    - url: https://cashkaro.atlassian.net/replace-with-confluence-link
+      title: Confluence PRD
+      icon: docs
+spec:
+  owner: group:product-team
+  domain: growth
+  type: feature
+  lifecycle: concept

@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: growth
+  title: Growth
+  description: User acquisition, onboarding, referrals, and social impact (SevaKaro)
+  tags:
+    - growth
+    - referrals
+    - onboarding
+    - charity
+spec:
+  owner: group:product-team
+  type: product-area

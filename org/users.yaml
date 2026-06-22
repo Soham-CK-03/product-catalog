@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Soham-CK-03
+spec:
+  profile:
+    displayName: Soham
+    email: anmol.t@cashkaro.com
+  memberOf:
+    - product-team

@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: platform
+  title: Platform
+  description: Authentication, notifications, settings, and core infrastructure features
+  tags:
+    - platform
+    - auth
+    - notifications
+spec:
+  owner: group:engineering-team
+  type: product-area

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: cashback
+  title: Cashback
+  description: Cashback tracking, wallet management, and payouts
+  tags:
+    - cashback
+    - wallet
+spec:
+  owner: group:product-team
+  type: product-area

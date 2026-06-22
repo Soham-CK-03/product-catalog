@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: cashkaro-product-catalog
+  description: Single source of truth for all CashKaro product features
+spec:
+  targets:
+    - ./org/groups.yaml
+    - ./org/users.yaml
+    - ./domains/cashback/catalog-info.yaml
+    - ./domains/discovery/catalog-info.yaml
+    - ./domains/growth/catalog-info.yaml
+    - ./domains/platform/catalog-info.yaml
+    - ./features/sevakaro/catalog-info.yaml
