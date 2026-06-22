@@ -12,3 +12,4 @@ spec:
     - ./domains/growth/catalog-info.yaml
     - ./domains/platform/catalog-info.yaml
     - ./features/sevakaro/catalog-info.yaml
+    - ./features/store-page/catalog-info.yaml

@@ -1,0 +1,16 @@
+{
+  "identifier": "store-page",
+  "title": "Store Page",
+  "blueprint": "feature",
+  "properties": {
+    "lifecycle": "in-development",
+    "description": "The brand/merchant page showing cashback rate, active coupons, and top deals. Highest traffic page on CashKaro.",
+    "figmaLink": "https://www.figma.com/replace-with-store-page-link",
+    "confluenceLink": "https://cashkaro.atlassian.net/replace-with-confluence-link",
+    "tags": ["discovery", "stores", "cashback", "high-traffic"],
+    "owner": "product-team"
+  },
+  "relations": {
+    "domain": "discovery"
+  }
+}

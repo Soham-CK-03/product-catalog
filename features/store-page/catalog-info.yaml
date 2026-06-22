@@ -1,0 +1,24 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: store-page
+  title: Store Page
+  description: The brand/merchant page users land on to browse cashback rates, active coupons, and top deals for a specific store
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - discovery
+    - stores
+    - cashback
+  links:
+    - url: https://www.figma.com/replace-with-store-page-figma-link
+      title: Figma Design
+      icon: dashboard
+    - url: https://cashkaro.atlassian.net/replace-with-confluence-link
+      title: Confluence PRD
+      icon: docs
+spec:
+  owner: group:product-team
+  domain: discovery
+  type: feature
+  lifecycle: in-development
