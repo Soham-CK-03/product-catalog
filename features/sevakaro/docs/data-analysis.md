@@ -1,4 +1,4 @@
-# Data Analysis — SevaKaro
+# SevaKaro — Data Analysis
 
 **Last Updated:** 2026-06-22
 

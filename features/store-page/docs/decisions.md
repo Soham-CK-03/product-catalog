@@ -1,4 +1,4 @@
-# Decisions — Store Page
+# Store Page — Decisions
 
 ---
 

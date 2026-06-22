@@ -1,4 +1,4 @@
-# DRD — SevaKaro (Design Requirements)
+# SevaKaro — DRD
 
 **Version:** 0.1 (Draft)  
 **Designer:** [Add designer name]  

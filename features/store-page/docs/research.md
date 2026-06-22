@@ -1,4 +1,4 @@
-# Research — Store Page
+# Store Page — Research
 
 **Last Updated:** 2026-06-22
 

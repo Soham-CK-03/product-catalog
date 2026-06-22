@@ -1,4 +1,4 @@
-# PRD — Store Page
+# Store Page — PRD
 
 **Version:** 0.2 (In Review)
 **Author:** Product Team

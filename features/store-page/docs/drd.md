@@ -1,4 +1,4 @@
-# DRD — Store Page
+# Store Page — DRD
 
 **Version:** 0.1
 **Designer:** [Add designer name]
